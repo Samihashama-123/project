@@ -5,7 +5,7 @@ public class SimpleCalculator {
         Scanner scanner = new Scanner(System.in);
 
         // Input first number
-        System.out.println("Enter the first number: ");
+        System.out.println("Enter the first number fhertrrturtf: ");
         int num1 = scanner.nextInt();
 
         // Input operator
